@@ -12,6 +12,7 @@
 // uniffi_reexport_scaffolding!() for each one.
 
 #[doc(hidden)]
+#[allow(dead_code)]
 pub fn uniffi_reexport_hack() {
 }
 
